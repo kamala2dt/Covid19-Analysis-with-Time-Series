@@ -14,7 +14,7 @@ Key finding topics in this analysis.
 
 
 
-The Project is at Kaggle
+Pleases see the updated version of the Project at Kaggle
 
 https://www.kaggle.com/kamalapousajja/covid19-analysis-with-time-series
 
