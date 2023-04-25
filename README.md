@@ -13,8 +13,7 @@ Key finding topics in this analysis.
 - Time series to compare the total cases number between New Zealand and Australia
 
 
-
-Pleases see the updated version of the Project at Kaggle
+Pleases see the updated version of this Project at Kaggle link below.
 
 https://www.kaggle.com/kamalapousajja/covid19-analysis-with-time-series
 
